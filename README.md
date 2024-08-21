@@ -33,7 +33,7 @@ Welcome to the Java Tutorial Codes repository! This repository is structured to 
 ## Repository Structure
 
 ```plaintext
-java-codes/
+java/
 ├── basic/
 │   ├── syntax/
 │   ├── data-types/
